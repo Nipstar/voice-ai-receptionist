@@ -42,9 +42,9 @@ Every FAQ must appear identically in BOTH the visible accordion AND the FAQPage 
 
 ## Contact Form
 
-POSTs to n8n webhook `https://antekauto.app.n8n.cloud/webhook/29e3a09b-5b23-489b-a800-a07262afb4cb` (same as electricians-ai). Hidden fields:
-- `source = "aivoiceagentreceptionist.co.uk"`
-- `industry = "AI Receptionist"`
+Self-hosted n8n iframe — same shared form ID as the rest of the network: `https://auto.juxtarank.com/form/17d8ddcd-4860-4dde-bd4a-2de0adb518e2`. iframe min-height 1200px.
+
+The legacy `<form id="contactForm">` POST-to-webhook code in the template was replaced with this iframe (cloud n8n blocks framing via X-Frame-Options; the self-hosted instance allows it).
 
 ## Cal.com Booking
 
