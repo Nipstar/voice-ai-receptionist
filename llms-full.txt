@@ -1,0 +1,106 @@
+# Antek Automation — AI Voice Agent Receptionist
+> AI receptionist + AI voice agent for UK businesses. 24/7 call answering, appointment booking, lead qualification and call routing — across therapists, law firms, dentists, accountants, physiotherapists, plumbers and general trades. Network position: national service hub. Vertical spokes link out (electricians, law firms).
+
+## About Antek Automation
+- Trading name: Antek Automation (sole trader)
+- Founded by: Andy Norman (30+ years in UK field service and managed print)
+- Headquarters: Chantry House, 38 Chantry Way, Andover, Hampshire SP10 1LZ
+- Phone: 0333 038 9960
+- Email: hello@antekautomation.com
+- ICO Registration: ZC133436
+- DUNS Number: 235593033
+- Certified Retell AI Partner, FSB Member
+- Brand hub: https://www.antekautomation.com
+- This site: https://aivoiceagentreceptionist.co.uk (national receptionist service)
+- Sister vertical sites: https://aiforelectricians.co.uk · https://aireceptionistforlawfirms.co.uk
+
+## What This Site Covers
+- AI voice receptionist — 24/7 phone-call answering, qualification, booking and routing
+- AI chat receptionist — website, Facebook Messenger and WhatsApp enquiry capture
+- Reception & workflow automation — follow-ups, confirmations, reminders, review requests
+- Service area: United Kingdom
+- Common UK verticals: therapists & counselling clinics, law firms & solicitors, plumbers, dentists & dental practices, accountants & bookkeepers, physiotherapists & health clinics, trades & home services
+
+## Key Facts
+- 24/7 cover including evenings, weekends, bank holidays and overnight
+- Books appointments into Google Calendar, Outlook, Calendly, Cliniko, SimplyBook.me, Dentally, Clio, Xero Practice Manager, LEAP and most UK practice-management or booking systems
+- UK GDPR-compliant; caller-data access controls, configurable retention, DPA on request
+- Live demo: +44 7782 214455 (real UK business — service-agnostic intake configuration)
+- Built on Retell AI by Certified Partner Antek Automation
+- No long-term contracts
+
+## Contact
+- This site: https://aivoiceagentreceptionist.co.uk
+- Phone: 0333 038 9960
+- Email: hello@aivoiceagentreceptionist.co.uk
+- Book a free discovery call: see /#contact on this site
+
+## Full Context (extended)
+
+### Parent Organisation
+AI Voice Agent Receptionist is part of the **Antek Automation** network — a UK AI automation agency.
+
+- Brand hub: https://www.antekautomation.com
+- Founder: Andy Norman (30+ years in UK field service and managed print)
+- HQ: Chantry House, 38 Chantry Way, Andover, Hampshire SP10 1LZ
+- ICO Registration: ZC133436
+- DUNS Number: 235593033
+- Certified Retell AI Partner, FSB Member
+- Telephone: 0333 038 9960
+- Email: hello@antekautomation.com
+
+### Service Coverage — UK-wide
+We deliver an AI voice receptionist + AI chat receptionist + intake workflow automation to UK businesses nationally — England, Scotland, Wales and Northern Ireland. Discovery calls are free and run for 30 minutes. Most deployments go live within 24-72 hours of scoping sign-off.
+
+### What the AI Receptionist Does
+- Answers every inbound call in the business's name, 24/7
+- Greets callers, qualifies enquiries, captures contact + intent
+- Books appointments straight into the business's calendar
+- Routes urgent calls to the right person by call or text
+- Sends an instant written summary of every call by text or email
+- Handles multiple calls simultaneously — no engaged tones, no queue
+- Sounds natural (Retell AI's latest voice models)
+
+### Hub-and-Spoke Network
+This site is the national hub for the AI-receptionist cluster. Two dedicated vertical sites act as spokes:
+- **AI for Electricians** (https://aiforelectricians.co.uk) — the dedicated trade site for UK electricians. The electricians card on this site links out to that domain.
+- **AI Receptionist for Law Firms** (https://aireceptionistforlawfirms.co.uk) — the dedicated legal site for UK solicitors. The law-firm card on this site links out to that domain.
+
+Other professions (therapists, plumbers, dentists, accountants, physios, general trades) are served directly from this hub until/unless a dedicated vertical site launches.
+
+### Integrations
+- Calendars: Google Calendar, Outlook, Calendly
+- Practice / booking systems: Cliniko, SimplyBook.me, Dentally, Clio, LEAP, Xero Practice Manager, plus most UK booking tools
+- Forms / CRM: integration via n8n + webhooks; confirmed during scoping
+
+### Confidentiality and UK GDPR
+- Call data and transcripts handled with caller-data access controls
+- Configurable retention (default: call recordings 90 days, transcripts 12 months)
+- Data residency: UK / EU
+- UK GDPR-compliant
+- Data Processing Agreement available on request
+
+### Pricing
+Pricing is bespoke per business and depends on call volume, complexity of qualification and integrations. Book a free discovery call for a clear, no-obligation quote. No long-term contracts.
+
+### Live Demo
+- Phone: +44 7782 214455 (live AI reception agent answering for a real UK business)
+- Available 24/7
+- Powered by Retell AI
+
+### Why UK Businesses Choose Us
+- Built for your profession — every deployment configured for the business it serves
+- Backed by Antek Automation — founded by Andy Norman, 30+ years in UK field service
+- Certified Retell AI Partner — enterprise-grade voice technology at small-business prices
+- Real proof in production — not mock-ups
+
+### Network Sister Sites
+- Antek brand hub: https://www.antekautomation.com
+- Electricians vertical: https://aiforelectricians.co.uk
+- Law firms vertical: https://aireceptionistforlawfirms.co.uk
+
+### Contact
+- Site: https://aivoiceagentreceptionist.co.uk
+- Phone: 0333 038 9960
+- Email: hello@aivoiceagentreceptionist.co.uk
+- Book a free discovery call: see /#contact on this site

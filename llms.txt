@@ -1,0 +1,36 @@
+# Antek Automation — AI Voice Agent Receptionist
+> AI receptionist + AI voice agent for UK businesses. 24/7 call answering, appointment booking, lead qualification and call routing — across therapists, law firms, dentists, accountants, physiotherapists, plumbers and general trades. Network position: national service hub. Vertical spokes link out (electricians, law firms).
+
+## About Antek Automation
+- Trading name: Antek Automation (sole trader)
+- Founded by: Andy Norman (30+ years in UK field service and managed print)
+- Headquarters: Chantry House, 38 Chantry Way, Andover, Hampshire SP10 1LZ
+- Phone: 0333 038 9960
+- Email: hello@antekautomation.com
+- ICO Registration: ZC133436
+- DUNS Number: 235593033
+- Certified Retell AI Partner, FSB Member
+- Brand hub: https://www.antekautomation.com
+- This site: https://aivoiceagentreceptionist.co.uk (national receptionist service)
+- Sister vertical sites: https://aiforelectricians.co.uk · https://aireceptionistforlawfirms.co.uk
+
+## What This Site Covers
+- AI voice receptionist — 24/7 phone-call answering, qualification, booking and routing
+- AI chat receptionist — website, Facebook Messenger and WhatsApp enquiry capture
+- Reception & workflow automation — follow-ups, confirmations, reminders, review requests
+- Service area: United Kingdom
+- Common UK verticals: therapists & counselling clinics, law firms & solicitors, plumbers, dentists & dental practices, accountants & bookkeepers, physiotherapists & health clinics, trades & home services
+
+## Key Facts
+- 24/7 cover including evenings, weekends, bank holidays and overnight
+- Books appointments into Google Calendar, Outlook, Calendly, Cliniko, SimplyBook.me, Dentally, Clio, Xero Practice Manager, LEAP and most UK practice-management or booking systems
+- UK GDPR-compliant; caller-data access controls, configurable retention, DPA on request
+- Live demo: +44 7782 214455 (real UK business — service-agnostic intake configuration)
+- Built on Retell AI by Certified Partner Antek Automation
+- No long-term contracts
+
+## Contact
+- This site: https://aivoiceagentreceptionist.co.uk
+- Phone: 0333 038 9960
+- Email: hello@aivoiceagentreceptionist.co.uk
+- Book a free discovery call: see /#contact on this site

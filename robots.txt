@@ -1,3 +1,67 @@
+# Default: allow all crawlers
 User-agent: *
 Allow: /
+
+# Explicitly allow AI search crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+# Block aggressive scrapers with minimal benefit
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
 Sitemap: https://aivoiceagentreceptionist.co.uk/sitemap.xml
