@@ -1,0 +1,23 @@
+# Security headers
+<IfModule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(), microphone=(self \"https://boltelectrical.uk\"), geolocation=()"
+  Header unset X-Powered-By
+  Header always unset X-Powered-By
+</IfModule>
+
+# Force HTTPS + canonicalise /index.html -> /
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTPS} off
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  RewriteCond %{THE_REQUEST} \s/+(.*?)index\.html[\s?] [NC]
+  RewriteRule ^ /%1 [R=301,L,NE]
+</IfModule>
+
+# Custom 404
+ErrorDocument 404 /404.html
